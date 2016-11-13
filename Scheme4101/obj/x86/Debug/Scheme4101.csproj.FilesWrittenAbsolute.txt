@@ -1,0 +1,6 @@
+/home/wilson/Desktop/Scheme4101/Scheme4101/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/wilson/Desktop/Scheme4101/Scheme4101/bin/Debug/Scheme4101.exe.mdb
+/home/wilson/Desktop/Scheme4101/Scheme4101/bin/Debug/Scheme4101.exe
+/home/wilson/Desktop/Scheme4101/Scheme4101/obj/x86/Debug/Scheme4101.exe
+/home/wilson/Desktop/Scheme4101/Scheme4101/obj/x86/Debug/Scheme4101.exe.mdb
+/home/wilson/Desktop/Scheme4101/Scheme4101/bin/Debug/SPP.dll

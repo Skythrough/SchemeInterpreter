@@ -1,0 +1,8 @@
+/home/wilson/Desktop/Scheme4101/Scheme4101/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/wilson/Desktop/Scheme4101/Scheme4101/bin/Release/Scheme4101.exe.mdb
+/home/wilson/Desktop/Scheme4101/Scheme4101/bin/Release/Scheme4101.exe
+/home/wilson/Desktop/Scheme4101/Scheme4101/obj/x86/Release/Scheme4101.exe
+/home/wilson/Desktop/Scheme4101/Scheme4101/obj/x86/Release/Scheme4101.exe.mdb
+/home/wilson/Desktop/Scheme4101/Scheme4101/bin/Release/SPP.dll
+/home/wilson/Desktop/Scheme4101/Scheme4101/obj/x86/Release/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/wilson/Desktop/Scheme4101/Scheme4101/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
